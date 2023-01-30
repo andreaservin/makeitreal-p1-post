@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/makeitreal-p1-post/static/css/main.073c9b0a.css",
+    "main.js": "/makeitreal-p1-post/static/js/main.19863384.js",
+    "static/js/787.e3733193.chunk.js": "/makeitreal-p1-post/static/js/787.e3733193.chunk.js",
+    "static/media/logo.svg": "/makeitreal-p1-post/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/makeitreal-p1-post/index.html",
+    "main.073c9b0a.css.map": "/makeitreal-p1-post/static/css/main.073c9b0a.css.map",
+    "main.19863384.js.map": "/makeitreal-p1-post/static/js/main.19863384.js.map",
+    "787.e3733193.chunk.js.map": "/makeitreal-p1-post/static/js/787.e3733193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19863384.js"
+  ]
+}
